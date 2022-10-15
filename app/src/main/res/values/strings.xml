@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="habit_list_label">Habit Tracker</string>
+    <string name="create_habit_title">Create New Habit</string>
+    <string name="edit_habit_title">Edit Habit</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete Habit</string>
+    <string name="save">Save Changes</string>
+
+    <string name="habit_list">No Habits Yet.. Create one!</string>
+</resources>
